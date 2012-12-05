@@ -9,6 +9,10 @@ same 'ilk' as a currently know one.
 
 This is a perl interface to the API of TasteKid.com
 
+NOTE: Their terms of service have changed you need to send them a request 
+first: http://www.tastekid.com/ask/page/api_request
+
+
 INSTALLATION
 
 To install this module, run the following commands:
