@@ -193,6 +193,9 @@ Version 0.1.3
 
 =head1 SYNOPSIS
 
+    NOTE: Their terms of service have changed you need to send them a 
+    API use request first: http://www.tastekid.com/ask/page/api_request
+
     use WWW::TasteKid;
 
     my $tskd = WWW::TasteKid->new;
@@ -230,7 +233,6 @@ Version 0.1.3
     Maurice Ravel
     Olivier Messiaen
     Sergei Prokofiev
-
 
 =head1 DESCRIPTION
 
