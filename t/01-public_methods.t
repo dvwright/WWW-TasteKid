@@ -1,6 +1,6 @@
 #!perl -T
 # /* vim:et: set ts=4 sw=4 sts=4 tw=78: */
-#$Id$
+#$Id: 01-public_methods.t,v 1.6 2009/04/16 08:08:48 dinosau2 Exp $
 
 use strict;
 use warnings;
